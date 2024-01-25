@@ -1,0 +1,5 @@
+npm install @vue/cli -g
+yarn add @vue/cli-service
+yarn add element-plus
+yarn add @element-plus/icons-vue
+yarn remove @vue/cli-plugin-eslint
