@@ -21,7 +21,7 @@ module.exports = {
     devServer: {
       host: "0.0.0.0",
       port: 80,
-      open: true, //自动打开浏览器
+      // open: true, //自动打开浏览器
     },
   },
 };
